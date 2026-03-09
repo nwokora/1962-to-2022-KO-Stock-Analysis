@@ -23,7 +23,7 @@ Skills demonstrated include: data import/cleanup, crisis performance insights, c
 ## Files Provided    
 
 ## Data Sources
-Google Stock Dataset (2004–2025) by MuqadasEjaz and collaborators on Kaggle (5,279 rows × 7 columns). [Download](https://www.kaggle.com/datasets/muqaddasejaz/google-stock-dataset-20042025)
+Google Stock Dataset (1962–2022) by Kalilur Rahman on Kaggle (15,311 rows × 8 columns). [Download](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)
 
 ## Tools Used
 **Excel** 
