@@ -38,38 +38,31 @@ Google Stock Dataset (1962–2022) by Kalilur Rahman on Kaggle (15,311 rows × 8
 
 ## Data Cleaning and Preparation
 
-### Data Quality Check:
+### Data Quality Assessment
 
 - Verified data types and standardized them for consistency.
 - Dropped redundant columns to streamline the dataset.
-- Checked for duplicates using Date as the unique identifier—no duplicates found.
-- Inspected for missing values—none detected.
+- Checked for duplicates using Date as the unique identifier (no duplicates found).
+- Inspected for missing values (none detected).
 - Renamed key columns (e.g., Open → Open Price, High → High Price).
-- Confirmed chronological order of dates.
-
-
+- Confirmed chronological date order date maintained.
+  
 ## Exploratory Data Analysis and Data Analysis  
 
- # DAX Measures - KO Stock Analysis
+### DAX Measures
+| Measure | Purpose |
+|---------|---------|
+| Average Close Price | Shows the trend analysis for closing price across all 60 years of trading days |
+| Average Daily Volatility | Shows the daily trend behaviour of the stock |
+| Close > Open % | Percentage of days stock closed higher than it opened |
+| Total Trading Days | Total number of active trading days |
 
-**Core Aggregation Measures**
- -Avg Close Price`
-```dax
-Avg Close Price = AVERAGE('KO Data'[Close])
-
-
-**Analytical Methods Used**
-
-| Method | Purpose | Implementation |
-|--------|---------|----------------|
-| **Descriptive Statistics** | Dataset overview | `df.describe()` |
-| **Daily Returns** | Performance measurement | `df['close'].pct_change()` |
-| **Moving Averages** | Trend identification | `rolling(20/50).mean()` |
-| **Volatility Analysis** | Risk assessment | `std() × √252` (30.6% result) |
-| **Data Quality Checks** | Reliability validation | `isna().sum()`, `duplicated()` |
-| **Feature Engineering** | Enhanced analysis | Range, returns, MAs created |
-
-**Key Financial Metrics Calculated:**
+### Analytical Methods Applied
+- **Time Series Analysis**: 60-year trends + seasonality
+- **Volatility Analysis**: Daily range % of close price
+- **Win Rate Analysis**: Close>Open percentage  
+- **Aggregation Validation**: Checks the accuracy of measures and calculations
+- **Interactive EDA**: Cross-filtering + drill-through
 
 
 ## Analysis Finding
