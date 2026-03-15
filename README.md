@@ -66,14 +66,20 @@ Google Stock Dataset (1962–2022) by Kalilur Rahman on Kaggle (15,311 rows × 8
 
 
 ## Analysis Finding
-### 5 Business Questions Answered
-| Q | Question | Result |
-|---| ---------|--------|
-| **Q1** | **Which year saw the highest trading activity in GOOG shares, and what drove the volume spikes?** | 2005 saw the highest trading activity in GOOG shares (~108 billion), driven by the post-IPO rush. 2025 had the lowest (~4 billion) due to incomplete year data.|
-| **Q2** | **Which year had the highest average daily trading volume for GOOG shares, and why?**  | 2005 dominated GOOG's average daily trading volume (429 million shares/day) due to post-IPO excitement, while 2024 had the lowest (20 million shares/day) amid stock maturity and splits. |
-| **Q3** | **How do GOOG's average daily returns vary by month across 2004-2025?** | The monthly seasonality patterns of GOOG's 2004-2025 average daily returns show October as the strongest and February as the weakest. |
-| **Q4** | **GOOG's closing price evolution from IPO (2004) to 2025, including performance during major stress periods like the 2008 crisis, 2020 COVID crash, and 2022 bear market?** | GOOG showed 82x growth from ~$2.50 (2004 IPO) to ~$204 (2025). Handled 2008 (-55%, quick bounce), 2020 COVID (-30%, sharp recovery), 2022 (-40%, steady climb back). |
-| **Q5** | **How do GOOG's 20-day and 50-day moving averages reveal short-term trends and trading signals from 2020-2025?** | GOOG's 20-day and 50-day moving averages (MAs) reveal short-term trends through their direction and crossovers from 2020-2025. |
+### Key Metrics (KPI Cards)
+| **Metric** | **Value** | **Context** |
+|------------|-----------|-------------|
+| **Close > Open %** | **47.94** | Percentage of profitable days over 60 years |
+| **Avg Daily Volatility** | **~1.74%** | 60-year daily range average |
+
+### Business Questions Answered
+| Q | Business Question | Visualizations | Key Result |
+|---| ------------------|----------------|------------|
+| **Q1** | **How has KO volume grown over 60 years?** | **Stacked Area Chart** | **KO saw ~140bn volume of shares traded over 60 years, with 2008 having the highest trading volume of ~6bn** |
+| **Q2** | **How does KO volume show quarterly seasonality spread?** | **Clustered Column Chart**  | **KO has an even quarterly spread across the 60 years with the first quarter dominating with ~36bn** |
+| **Q3** | **What is the average KO close price by year?** | **Line Chart** | **KO saw ~152,000% growth in average daily close price over 60 years** |
+| **Q4** | **What is the volume spread of KO by months?** | **Clustered Column Chart** | **KO achieved almost an even spread across all months, with March having the highest volume of ~13bn in the 60-year run** |
+| **Q5** | **What is the sum of KO close price by month?** | **Area Chart** | **August has the highest in the sum of close price with ~16k in total** |
 
 
 ## Insight
