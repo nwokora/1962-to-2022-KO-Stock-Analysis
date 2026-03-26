@@ -28,7 +28,7 @@ Skills demonstrated include: Power BI dashboard design, DAX measure creation (AV
 | **Q5** | What is the sum of KO close price by month? | Area Chart |
 
 ## 📸 Process Charts
-All charts, pivots, and visuals used in this project are stored in the /screenshots/ folder. View screenshots here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/screenshots)
+All charts and visuals used in this analysis are stored in the /process charts/ folder. View screenshots here: (https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/process_charts)
 
 ## 📁 Data
 This folder contains the datasets used throughout the project:
@@ -36,9 +36,9 @@ This folder contains the datasets used throughout the project:
 Raw Dataset – The original Excel file sourced from the European Antimicrobial Resistance Surveillance (EARS) database.
 Cleaned Dataset (by Age & Gender) – Processed versions used to create pivot tables and charts for analysis. View datasets here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/data)
 
-## 📊 Analysis
-This folder contains all final visualizations and charts generated from the cleaned datasets.
-These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: (https://github.com/dimma-analytics/antibiotic-resistance-analysis/tree/main/analysis)
+## 📊 Analysis Charts
+This folder holds all the final charts and visualizations created from this analysis.
+These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: (https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/analysis_charts)
 
 ## 🔗 Data Source
 Google Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). [Download](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)
