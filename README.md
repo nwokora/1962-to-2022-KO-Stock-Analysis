@@ -45,4 +45,4 @@ This folder holds all the final charts and visualizations created from this anal
 These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: **[Analysis Charts](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/analysis_charts)**
 
 ## 🔗 Data Source
-Google Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). **[Download Dataset](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
+Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). **[Download Dataset](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
