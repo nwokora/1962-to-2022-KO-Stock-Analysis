@@ -9,7 +9,8 @@ Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year gro
 - **📖 README.md** – Project overview 
 
   ## 🛠️ Tools Used
--  **Excel** – Data cleaning & pivot tables
+-  **Excel** – Initial dataset validation (rows/columns)
+-  **Power Query** - Data cleaning and transformation
 -  **Power BI** – Interactive visualizations  
 -  **GitHub** – Hosting documented projects
 -  **Markdown** – Documentation (.md files)
