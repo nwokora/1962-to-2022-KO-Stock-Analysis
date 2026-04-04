@@ -1,4 +1,4 @@
-# Key Insights from the Coca-Cola Stock History Analysis (1962-2022). 
+# Key Findings from the Coca-Cola Stock History Analysis (1962-2022). 
 ## 📊 Perfomance KPIs
 **(KO 60-year performance: ~48% win rate, 1.74% volatility across 15K days)**
 - In the 15k trading days, the KO has closed ~48% of the time more than it opened. 
