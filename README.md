@@ -32,18 +32,19 @@ Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year gro
 | **Q5** | Average KO close price by month | Clustered Column Chart |
 
 ## 💡 Key Insights
-KO achieved 140B total volume across 60 years (~15K trading days) at 2.33B average yearly, peaking at ~6B in 2008. Close price CAGR rose from $0.04 (1962) to $60.86 (2022), with a 48% win rate (close > open) and 1.74 average daily volatility. **[Key Insights](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/blob/main/insights.md)**
+Coca-Cola (KO) offers unmatched reliability: 48% daily wins, 1.74% low volatility, 15,000% growth, and ±5% steady volume driven by recession-proof beverage demand, pricing power, and global brand dominance, making it a timeless, predictable investment for short and long-term horizons.
+**[See Insights Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/blob/main/insights.md)**
 
 ## 🗄️ Dataset
 **Raw Dataset** – Original KO stock data (1962-2022): open, high, low, close prices + daily volume (~15K trading days).  
-**Cleaned Dataset** – Processed CSVs with optimized data types for Power BI analysis. **[Dataset](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/dataset)**
+**Cleaned Dataset** – Processed CSVs with optimized data types for Power BI analysis. **[See Datasets Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/dataset)**
 
 ## ⚙️ Process Charts
-Work-in-progress charts showing screenshots of analysis steps. **[Process Charts](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/process_charts)**
+Work-in-progress charts showing screenshots of analysis steps. **[See Process Charts Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/process_charts)**
 
 ## 📈 Analysis Charts
 This folder holds all the final charts and visualizations created from this analysis.
-These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: **[Analysis Charts](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/analysis_charts)**
+These include resistance trends over time, comparisons by gender, age group, and bacterial species. View charts here: **[See Analysis Charts Here](https://github.com/nwokora/1962-to-2022-ko-stock-analysis/tree/main/analysis_charts)**
 
 ## 🔗 Data Source
-Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). **[Download Dataset](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
+Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). **[Dataset Source](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated)**
