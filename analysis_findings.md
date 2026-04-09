@@ -13,7 +13,7 @@
 
 ## 💰 Price Performance
 **(15,000% price growth 1962-2022, 2000s strongest decade)**
-- The Compound Annual Growth Rate (CAGR) saw the average close price by year rise from 0.04 in 1962 to 60.86 in 2022 (about a 15,000% increase).
+- The Compound Annual Growth Rate (CAGR) saw the average close price by year rise from 0.04 in 1962 to 60.86 in 2022 (about a 152,050% increase).
 - The 2000s experienced a more robust price increase than was obtainable in the 1960s.
 
 ## 🌡️ Seasonality Patterns
